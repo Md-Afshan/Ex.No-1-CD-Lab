@@ -2,9 +2,10 @@ Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
 
-NAME : Muhammad Afshan A
+NAME : Muhammad Afshan .A
 
 Register Number : 212223100035
+
 Date : 09/10/2024
 
 AIM:
