@@ -1,18 +1,18 @@
-Ex. No : 1
+# Ex. No : 1
 
-IMPLEMENTATION OF SYMBOL TABLE
+# IMPLEMENTATION OF SYMBOL TABLE
 
-NAME : Muhammad Afshan .A
+## NAME : Muhammad Afshan .A
 
-Register Number : 212223100035
+## Register Number : 212223100035
 
-Date : 09/10/2024
+## Date : 22/08/2024
 
-AIM:
+## AIM:
 
 To write a C program to implement a symbol table.
 
-ALGORITHM:
+## ALGORITHM:
 
 1. Start the program.
 2. Get the input from the user with the terminating symbol ‘$’.
@@ -23,7 +23,7 @@ ALGORITHM:
 7. To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8. Stop the program.
 
-PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h> 
 #include <ctype.h> 
@@ -79,10 +79,10 @@ int main() {
 }
 ```
 
-OUTPUT:
+## OUTPUT:
 
 ![ex1](ex1(2).png)
 
-RESULT:
+## RESULT:
 
 The program to implement a symbol table is executed and the output is verified.
